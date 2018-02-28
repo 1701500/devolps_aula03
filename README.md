@@ -2,6 +2,6 @@
 
 #ferramentas de controle de versão:
 *mercurial
-*Git
+*GitLabb
 *Subversion
 *CVS
